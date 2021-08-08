@@ -6,4 +6,4 @@
 
 ## Data Analysis Projects
 ### [Project 1 : Investigating TMDb movie Dataset](https://github.com/jaishwin/Data-Analyst-Nanodegree/blob/master/TMDb%20Dataset.ipynb)
-### [Project 2: Car Prediction Dataset](https://www.kaggle.com/jjaishwin/car-prediction)
+### [Project 2: Car Prediction Dataset ](https://www.kaggle.com/jjaishwin/car-prediction)
