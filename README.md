@@ -7,3 +7,9 @@
 ## Data Analysis Projects
 ### [Project 1 : Investigating TMDb movie Dataset](https://github.com/jaishwin/Data-Analyst-Nanodegree/blob/master/TMDb%20Dataset.ipynb)
 ### [Project 2: Car Prediction Dataset ](https://www.kaggle.com/jjaishwin/car-prediction)
+
+## Certifications
+
+### [AZ-900: Microsoft Azure Fundamentals]
+### [DP-900: Microsoft Azure Data Fundamentals]
+### [DA-100: Analyzing Data with Power BI](https://www.youracclaim.com/badges/1a5ee537-31ef-4b5a-8287-8eda093f099d/public_url)
