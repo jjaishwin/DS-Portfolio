@@ -10,6 +10,6 @@
 
 ## Microsoft Certifications
 
-### [AZ-900: Microsoft Azure Fundamentals](credly.com/badges/f0ddd76f-89d0-4ab5-b8bf-ee6e22eb28ff)
-### [DP-900: Microsoft Azure Data Fundamentals](credly.com/badges/f0ddd76f-89d0-4ab5-b8bf-ee6e22eb28ff)
+### [AZ-900: Microsoft Azure Fundamentals](https://www.credly.com/badges/f0ddd76f-89d0-4ab5-b8bf-ee6e22eb28ff)
+### [DP-900: Microsoft Azure Data Fundamentals](https://www.credly.com/badges/f0ddd76f-89d0-4ab5-b8bf-ee6e22eb28ff)
 ### [DA-100: Analyzing Data with Power BI](https://www.youracclaim.com/badges/1a5ee537-31ef-4b5a-8287-8eda093f099d/public_url)
